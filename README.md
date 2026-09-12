@@ -23,4 +23,4 @@ turning on an LED, and logs an alert over serial.
 - DHT sensor library (Adafruit)
 
 ## Demo
-[Add a screenshot of the running simulation with the LED on]
+<img width="690" height="561" alt="image" src="https://github.com/user-attachments/assets/9b279232-91e7-4da5-aefe-02d700834478" />
